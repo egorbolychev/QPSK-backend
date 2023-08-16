@@ -1,5 +1,4 @@
 from celery.app import shared_task
-from celery_progress.backend import ProgressRecorder
 from random import random
 import time
 
